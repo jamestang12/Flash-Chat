@@ -291,7 +291,7 @@
                                         <constraints>
                                             <constraint firstAttribute="height" constant="40" id="POz-11-5A0"/>
                                         </constraints>
-                                        <color key="textColor" name="BrandPurple"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                         <textInputTraits key="textInputTraits"/>
                                     </textField>
