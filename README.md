@@ -20,10 +20,10 @@ Flash Chat is an internet based messaging app similar to WhatsApp, the popular m
 
 ## Screenshots
 
-<img src="Simulator Screen Shot - iPhone 11 - 2021-01-08 at 14.13.10.png">
-<img src="Simulator Screen Shot - iPhone 11 - 2021-01-08 at 14.13.15.png">
-<img src="Simulator Screen Shot - iPhone 11 - 2021-01-08 at 14.13.20.png">
-<img src="Simulator Screen Shot - iPhone 11 - 2021-01-08 at 14.13.44.png">
+<img src="Simulator Screen Shot - iPhone 11 - 2021-01-08 at 14.13.10.png" width="300" height="600">
+<img src="Simulator Screen Shot - iPhone 11 - 2021-01-08 at 14.13.15.png" width="300" height="600">
+<img src="Simulator Screen Shot - iPhone 11 - 2021-01-08 at 14.13.20.png" width="300" height="600">
+<img src="Simulator Screen Shot - iPhone 11 - 2021-01-08 at 14.13.44.png" width="300" height="600">
 
 
 
